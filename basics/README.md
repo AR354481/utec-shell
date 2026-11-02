@@ -5,3 +5,4 @@
 - 11-lists: lista en formato largo (con ocultos) el directorio actual, el padre y /boot
 - 4-listmorefiles: lista el directorio actual en formato largo, incluyendo ocultos
 - 5-listfilesdigitonly: formato largo, con ocultos y UID/GID numericos
+- 6-firstdirectory: crea el directorio /tmp/my_first_directory
