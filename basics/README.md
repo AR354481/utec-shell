@@ -9,3 +9,4 @@
 - 7-movethatfile: mueve /tmp/betty a /tmp/my_first_directory
 - 8-firstdelete: elimina /tmp/my_first_directory/betty
 - 9-firstdirdeletion: elimina el directorio /tmp/my_first_directory
+- 12-file_type: imprime el tipo del archivo /tmp/iamafile
