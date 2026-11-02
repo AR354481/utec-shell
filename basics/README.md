@@ -13,3 +13,4 @@
 - 10-back: vuelve al directorio de trabajo anterior
 - 13-symbolic_link: crea el enlace simbolico __ls__ a /bin/ls
 - 14-copy_html: copia los .html al directorio padre si no existen o son mas nuevos
+- 15-lets_move: mueve los archivos que empiezan con mayuscula a /tmp/u
