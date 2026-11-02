@@ -7,3 +7,4 @@
 - 5-listfilesdigitonly: formato largo, con ocultos y UID/GID numericos
 - 6-firstdirectory: crea el directorio /tmp/my_first_directory
 - 7-movethatfile: mueve /tmp/betty a /tmp/my_first_directory
+- 8-firstdelete: elimina /tmp/my_first_directory/betty
