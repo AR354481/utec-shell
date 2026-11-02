@@ -10,3 +10,4 @@
 - 8-firstdelete: elimina /tmp/my_first_directory/betty
 - 9-firstdirdeletion: elimina el directorio /tmp/my_first_directory
 - 12-file_type: imprime el tipo del archivo /tmp/iamafile
+- 10-back: vuelve al directorio de trabajo anterior
